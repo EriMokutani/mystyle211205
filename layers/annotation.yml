@@ -13,7 +13,7 @@ layout:
   text-field: 
     - get
     - 名称
-  text-size: 14
+  text-size: 30
   text-font:
     - NotoSansCJKjp-Regular
   text-rotate:
