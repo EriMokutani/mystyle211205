@@ -23,7 +23,7 @@ paint:
       - 9214
       - 9221
       - 9224
-    - rgb(72, 131, 247)
+    - rgb(128,0,128)
     - rgb(136, 89, 82)
   line-opacity: 
     - interpolate
