@@ -16,7 +16,7 @@ layout:
   text-offset: 
     - 0
     - 1 
-  text-size: 100
+  text-size: 50
   text-max-width: 30
   text-field:
     - match
