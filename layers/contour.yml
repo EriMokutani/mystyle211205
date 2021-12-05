@@ -26,17 +26,14 @@ paint:
     - - get
       - 図式コード
     - - 9201
+      - 9204
       - 9211
       - 9212
       - 9214
       - 9221
-      - 9224
-    - rgb(72, 209, 204)
-    - match
-    - - get
-      - 図式コード
-      - 9204
+      - 9224         
     - rgb(0, 100, 0)
+    - rgb(72, 209, 204)
   line-opacity: 
     - interpolate
     - - exponential
