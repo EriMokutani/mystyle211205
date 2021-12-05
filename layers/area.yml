@@ -8,10 +8,10 @@ paint:
     - - get
       - 図式コード
     - 9501
-    - rgb(255, 0 , 0)
+    - rgb(102, 204 , 0)
     - 9601
     - rgb(205, 230, 253)
-    - rgb(255, 0, 0)
+    - rgb(102, 204, 0)
   fill-opacity: 
     - interpolate
     - - exponential
